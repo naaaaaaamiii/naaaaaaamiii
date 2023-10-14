@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naaaaaaamiii" alt="naaaaaaamiii" /></a> </p>
 
-- 🌱 I’m currently learning **Ruby(Ruby on Rails),HTML,CSS,Javascript)**
+- 🌱 I’m currently learning **Ruby(Ruby on Rails),HTML,CSS,Javascript**
 
 - 📝 I regularly write articles on [https://zenn.dev/skal073](https://zenn.dev/skal073)
 
